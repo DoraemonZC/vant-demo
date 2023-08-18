@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvant_dormitory_system"]=self["webpackChunkvant_dormitory_system"]||[]).push([[571],{9571:function(n,e,t){t.r(e),t.d(e,{default:function(){return i}});var r=function(){var n=this,e=n._self._c;return e("div",[n._v("我是search")])},s=[],u={name:"searchIndex"},a=u,l=t(1001),c=(0,l.Z)(a,r,s,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=571.f4fbfb59.js.map
